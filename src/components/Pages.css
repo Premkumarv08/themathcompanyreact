@@ -1,0 +1,8 @@
+.pages-container {
+    display: block;
+    width: 100%;
+  }
+  .close-icon {
+    margin: 10px 20px;
+    padding: 15px;
+  }
